@@ -1,9 +1,9 @@
 ### Welcome !!
 
-I am new to GitHub hoping to start my career in Front-End Web Development
+Currently enrolled in Nucamp Coding Bootcamp to further deepen my skills and knowledge of wev dev. 
 
 #### What I'm learning:
-Currently  learning how to use Git, Github and JavaScript
+Bootstrap, React & React Redux
 
 <!--
 **christiane-villaroel/Christiane-Villaroel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
