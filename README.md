@@ -1,17 +1,6 @@
-### Welcome !!
+### Welcome to my Repo!!
 
-Currently enrolled in Nucamp Coding Bootcamp to further deepen my skills and knowledge of wev dev. 
+ Recent Graduate of Nucamp Coding Bootcamp :mortar_board:
 
-#### What I'm learning:
-Bootstrap, React & React Redux
-
-<!--
-**christiane-villaroel/Christiane-Villaroel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Always excited to learn new things!
-
-
-
-
-
-- 
+ 
+ Excited to continue to learn and improve my skills as a Front End Developer 
