@@ -7,3 +7,10 @@ Excited to keep learning new skills each an everyday!
 
 ## Portfolio Projects: 
 [Mindful](https://meditation-website-react.herokuapp.com/) -> Meditation Website made with React,Node Js and Bootstrap.
+
+### Tech Stacks:
+- HTML
+- CSS
+- JavaScript
+- React Library
+- ... **More To Come!**
