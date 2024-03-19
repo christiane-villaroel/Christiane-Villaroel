@@ -2,7 +2,8 @@
 
 My Name is Christiane Villaroel, I am a Front End Web Developer. 
 Excited to keep learning new skills each an everyday!
-
+#### 2025 Current Lagaurdia Community College Student:
+- **A.A.S** Progamming & Softwar Development Major
 #### 2022 NuCamp Coding Bootcamp Graduate :mortar_board:
 
 ## Portfolio Projects: 
@@ -16,4 +17,7 @@ Made a Front End website, with the goal of practicing what I have learned so far
 - CSS
 - JavaScript
 - React Library
-- ... **More To Come!**
+- C++
+#### Currently Learning:
+- Objet Oriented Programing (Using C++)
+- Visual and Design (Using C#)
